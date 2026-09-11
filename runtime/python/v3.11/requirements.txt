@@ -120,7 +120,6 @@ httplib2==0.32.0
     # via -r requirements.in
 httpx==0.28.1
     # via
-    #   farm-haystack
     #   langchain-core
     #   langgraph-sdk
     #   ollama
@@ -279,6 +278,8 @@ prompthub-py==4.0.0
     # via farm-haystack
 protego==0.6.2
     # via scrapy
+psycopg==3.3.5
+    # via -r requirements.in
 pycparser==3.0
     # via cffi
 pycryptodome==3.23.0
@@ -431,6 +432,7 @@ typing-extensions==4.16.0
     #   minio
     #   openai
     #   posthog
+    #   psycopg
     #   pydantic
     #   pydantic-core
     #   pyopenssl

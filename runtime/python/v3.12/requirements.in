@@ -49,3 +49,4 @@ langchain-together
 langchain-milvus
 bcrypt
 chevron
+psycopg

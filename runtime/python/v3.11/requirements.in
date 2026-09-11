@@ -43,3 +43,4 @@ feedparser
 numpy
 scikit-learn
 bcrypt
+psycopg

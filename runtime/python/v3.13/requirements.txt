@@ -309,6 +309,8 @@ protego==0.6.2
     # via scrapy
 protobuf==7.36.1
     # via pymilvus
+psycopg==3.3.5
+    # via -r requirements.in
 pyarrow==25.0.1
     # via milvus-lite
 pycparser==3.0
