@@ -38,3 +38,5 @@ langchain
 nltk
 langdetect
 
+psycopg
+pymilvus
