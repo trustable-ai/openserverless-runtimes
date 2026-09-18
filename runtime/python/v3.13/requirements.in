@@ -38,5 +38,5 @@ langchain
 nltk
 langdetect
 
-psycopg
+psycopg[binary]
 pymilvus

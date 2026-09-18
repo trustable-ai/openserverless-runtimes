@@ -28,9 +28,9 @@ asn1crypto==1.5.1
     # via scramp
 bcrypt==5.0.0
     # via -r requirements.in
-boto3==1.43.93
+boto3==1.43.97
     # via -r requirements.in
-botocore==1.43.93
+botocore==1.43.97
     # via
     #   boto3
     #   s3transfer
@@ -46,7 +46,7 @@ dnspython==2.8.0
     # via pymongo
 httplib2==0.32.0
     # via -r requirements.in
-idna==3.19
+idna==3.20
     # via requests
 jmespath==1.1.0
     # via
@@ -85,7 +85,7 @@ six==1.17.0
     # via python-dateutil
 typing-extensions==4.16.0
     # via minio
-urllib3==2.7.0
+urllib3==2.8.0
     # via
     #   botocore
     #   minio
